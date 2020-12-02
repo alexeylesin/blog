@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Информация
 permalink: /about/
 ---
 
-Some information about you!
+Добро пожаловать в мой блог. К сожалению, старые записи были утеряны навсегда из-за сбоя на хостинге, однако в ближайшее время я постараюсь сделать больше новых :)
 
-### More Information
+### Cвязь со мной
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[me@alexeylesin.ru](mailto:me@alexeylesin.ru)
